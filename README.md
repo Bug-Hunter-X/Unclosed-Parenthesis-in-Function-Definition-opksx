@@ -1,0 +1,1 @@
+This repository demonstrates a common yet often overlooked error in Python: unclosed parentheses in function definitions.  The bug is subtle, making it easy to miss during code review.  The solution highlights the importance of careful syntax and the use of linters to catch such errors early.
